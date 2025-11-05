@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+}
+
+.button {
+    background-color: #819B57;
+    color: #faf4ea;
+    border: 2px solid #819B57;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: transparent;
+    color: #465929;
+}
+
+.link {
+    color: #faf4ea;
+}
+
+.link:hover {
+    color: #819B57;
+}
+
+.hero-title {
+    color: #faf4ea;
+}
+
+.hero-title .accent {
+    color: #819B57; /*HEX value is the main one, there is also rgba, where a is for transparency*/
+}
+
+.advantages-list {
+    color: #faf4ea;
+    background-color:#819B57;
+}
+
+.section-title {
+    color: #31261A;
+}
